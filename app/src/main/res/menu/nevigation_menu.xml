@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    tools:ignore="HardcodedText" >
+
+    <item
+        android:id="@+id/drawimg"
+        android:title="userImg"
+        android:icon="@drawable/home_24"/>
+    <item
+        android:id="@+id/drawname"
+        android:title="Name"
+        android:icon="@drawable/name_27"/>
+    <item
+        android:id="@+id/drawemail"
+        android:title="Email"
+        android:icon="@drawable/mail_24"/>
+    <item
+        android:id="@+id/drawpassword"
+        android:title="Password"
+        android:icon="@drawable/password_24"/>
+    <item
+        android:id="@+id/drawcity"
+        android:title="City"
+        android:icon="@drawable/location_city_24"/>
+    <item
+        android:id="@+id/drawaddress"
+        android:title="Address"
+        android:icon="@drawable/home_work_24"
+        />
+    <item
+        android:id="@+id/drawexit"
+        android:title="Exit"
+        android:icon="@drawable/exit_to_app_24"/>
+</menu>
